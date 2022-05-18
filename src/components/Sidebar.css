@@ -1,0 +1,42 @@
+.sidebar {
+    margin-top: 5px;
+    width: 300px;
+    min-width: 300px;
+    background: white;
+    min-height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+    color: black;
+}
+
+
+.sidebar .links li {
+    margin-top: 10px;
+    list-style-type: none;
+}
+
+.sidebar .links li span {
+    margin-left: 10px;
+}
+
+.sidebar .links a {
+    display: flex;
+    padding: 10px;
+    text-decoration: none;
+    width: 100%;
+    color: black;
+    box-sizing: border-box;
+}
+
+.sidebar .links img {
+    margin-right: 10px;
+    filter: invert(100%);
+}
+
+.sidebar .links a.active {
+    background: rgba(240, 248, 255, 1);
+}
+
+.sidebar .links .active img {
+    filter: invert(40%);
+}

@@ -1,0 +1,107 @@
+.ocontainer {
+    width: 100%;
+    margin: 10px;
+}
+
+.upper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8%;
+}
+
+.upper button {
+    padding: 10px;
+    border: none;
+    background: white;
+    margin-right: auto;
+}
+
+.upper button span {
+    color: steelblue;
+    margin-left: 5px;
+}
+
+div .icon {
+    align-items: center;
+}
+
+.project-filter {
+    margin: 30px auto;
+}
+
+.project-filter nav {
+    display: flex;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.project-filter p {
+    font-size: 0.9em;
+    margin-right: 10px;
+}
+
+.project-filter button {
+    background: transparent;
+    border: 0;
+    font-family: inherit;
+    color: steelblue;
+    cursor: pointer;
+    border-right: 1px solid #e4e4e4;
+    font-size: 0.9em;
+}
+
+.ocontainer2 {
+    background: white;
+    border-radius: 0%;
+    padding: 10px;
+}
+
+.btn {
+    display: flex;
+    margin-bottom: 1%;
+}
+
+.btn button {
+    margin-right: 1%;
+    border: 1px solid black;
+}
+
+.btn1 {
+    background: white;
+}
+
+.btn4 {
+    background: royalblue;
+    margin-left: auto;
+}
+
+.btnb {
+    display: flex;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    margin-left: 75%;
+}
+
+.btnb button {
+    margin-right: 1%;
+    background: white;
+}
+
+.btn6 {
+    width: 10%;
+    color: royalblue;
+    border: 1px solid royalblue;
+}
+
+.btn5 {
+    border: 1px solid black
+}
+
+.btn7 {
+    border: 1px solid black
+}
+
+.btn8 {
+    margin-left: 25%;
+    border: 1px solid black
+}
